@@ -3,6 +3,8 @@ Python Wrapper for Filecoin Lotus API
 
 # Example
 
+You will need API key from lotus-miner
+
     pip3 install git+https://github.com/Tualua/pylotus.git
     python3
     >>> from pylotus import LotusMiner
